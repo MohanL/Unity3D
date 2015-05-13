@@ -2,4 +2,4 @@
 Starbucks
 
 3 weeks project
-starbucks modelling, and mutliple avatars
+starbucks modelling and mutliple avatars
