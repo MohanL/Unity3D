@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: c405ef619643c4ca2acfa784db083f3a
+timeCreated: 1431655853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boat
+    100004: cylinders
+    100006: emounts
+    100008: engine
+    100010: exhaust
+    100012: heads
+    100014: hub
+    100016: intakes
+    100018: prop
+    100020: rudder
+    100022: seat
+    100024: shaft
+    100026: shroud
+    100028: stand
+    100030: steer
+    100032: throttle
+    400000: //RootNode
+    400002: boat
+    400004: cylinders
+    400006: emounts
+    400008: engine
+    400010: exhaust
+    400012: heads
+    400014: hub
+    400016: intakes
+    400018: prop
+    400020: rudder
+    400022: seat
+    400024: shaft
+    400026: shroud
+    400028: stand
+    400030: steer
+    400032: throttle
+    2300000: boat
+    2300002: cylinders
+    2300004: emounts
+    2300006: engine
+    2300008: exhaust
+    2300010: heads
+    2300012: hub
+    2300014: intakes
+    2300016: prop
+    2300018: rudder
+    2300020: seat
+    2300022: shaft
+    2300024: shroud
+    2300026: stand
+    2300028: steer
+    2300030: throttle
+    3300000: boat
+    3300002: cylinders
+    3300004: emounts
+    3300006: engine
+    3300008: exhaust
+    3300010: heads
+    3300012: hub
+    3300014: intakes
+    3300016: prop
+    3300018: rudder
+    3300020: seat
+    3300022: shaft
+    3300024: shroud
+    3300026: stand
+    3300028: steer
+    3300030: throttle
+    4300000: boat
+    4300002: cylinders
+    4300004: emounts
+    4300006: engine
+    4300008: exhaust
+    4300010: heads
+    4300012: hub
+    4300014: intakes
+    4300016: prop
+    4300018: rudder
+    4300020: seat
+    4300022: shaft
+    4300024: shroud
+    4300026: stand
+    4300028: steer
+    4300030: throttle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
